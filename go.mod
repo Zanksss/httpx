@@ -1,4 +1,4 @@
-module github.com/Zanksss/httpx
+module github.com/ZhanK-X/httpx
 
 go 1.19
 
